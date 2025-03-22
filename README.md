@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Currently learning machine learning.<br>🎯 Goals: Data science internship in 2025.</p>
+<p align="left">Currently learning machine learning.
 
 ###
 
